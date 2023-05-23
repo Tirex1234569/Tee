@@ -1,0 +1,11 @@
+start
+
+
+input score
+
+testinput>=80='A'
+testinput>=70'B'
+testinput>=60='C'
+testinput>=0=F
+
+end
